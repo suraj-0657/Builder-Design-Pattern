@@ -1,3 +1,4 @@
+//Builder Design Pattern
 #include <iostream>
 #include <vector>
 using namespace std;
@@ -138,3 +139,5 @@ int main() {
 	cout<<artsStud->showData()<<endl;
 	return 0;
 }
+
+//Code not compiled. Giving segmentation fault. Need to debug.
